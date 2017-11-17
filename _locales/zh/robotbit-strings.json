@@ -1,11 +1,11 @@
 {
-	"robotbit.Servo|block": "伺服|%index|角度 %degree",
-	"robotbit.StepperDegree|block": "步進 28BYJ-48|%index|角度 %degree",
-	"robotbit.StepperTurn|block": "步進 28BYJ-48|%index|圈数 %turn",
-	"robotbit.MotorRun|block": "馬達|%index|速度 %speed",
-	"robotbit.MotorRunDual|block": "馬達|%motor1|速度 %speed1|%motor2|速度 %speed2",
-	"robotbit.MotorRunDelay|block": "馬達|%index|速度 %speed|延時 %delay|s",
-	"robotbit.MotorStop|block": "馬達 停止|%index|",
-	"robotbit.MotorStopAll|block": "停止所有馬達",
+	"robotbit.Servo|block": "伺服馬達|%index|角度 %degree",
+	"robotbit.StepperDegree|block": "步進馬達 28BYJ-48|%index|角度 %degree",
+	"robotbit.StepperTurn|block": "步進馬達 28BYJ-48|%index|圈数 %turn",
+	"robotbit.MotorRun|block": "直流馬達|%index|速度 %speed",
+	"robotbit.MotorRunDual|block": "直流馬達|%motor1|速度 %speed1|%motor2|速度 %speed2",
+	"robotbit.MotorRunDelay|block": "直流馬達|%index|速度 %speed|延時 %delay|s",
+	"robotbit.MotorStop|block": "直流馬達 停止|%index|",
+	"robotbit.MotorStopAll|block": "停止所有直流馬達",
 	"robotbit.Ultrasonic|block": "超聲波|引脚 %pin"
 }
